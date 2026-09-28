@@ -1,8 +1,8 @@
 class Rotari < Formula
   desc "Serverless workflow engine for repeatable shell-command jobs"
   homepage "https://github.com/kamo-naoyuki/rotari"
-  url "https://github.com/kamo-naoyuki/rotari/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "5633b28a25946cefc31f8248e560ca3b37d174263a4fd99b05aaf4dbd8427e90"
+  url "https://github.com/kamo-naoyuki/rotari/archive/refs/tags/v0.1.7.tar.gz"
+  sha256 "699757f47f0f04f6cfd95fcd2ed75f73f335c47646bac85e667815e3d2a8eb8a"
   license "MIT"
 
   depends_on "go" => :build
